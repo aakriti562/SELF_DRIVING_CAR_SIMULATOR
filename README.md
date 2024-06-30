@@ -50,7 +50,20 @@ https://github.com/aakriti562/SELF_DRIVING_CAR_STIMULTOR.git
 ```bash
 npm run start 
 ```
+
 ## Screenshots
+
+## Architecture
+![image](https://github.com/aakriti562/SELF_DRIVING_CAR_STIMULTOR/assets/76481840/e525cc50-008d-4944-be76-471271ec518d)
+
+## Snapshots depicting results 
+
+![image](https://github.com/aakriti562/SELF_DRIVING_CAR_STIMULTOR/assets/76481840/8109c819-31cd-47ef-8637-2ea06c59427b)
+
+![image](https://github.com/aakriti562/SELF_DRIVING_CAR_STIMULTOR/assets/76481840/d1ca3cb0-ce11-4ae0-aad4-5c8e1d109ea7)
+
+
+
 
 
 
